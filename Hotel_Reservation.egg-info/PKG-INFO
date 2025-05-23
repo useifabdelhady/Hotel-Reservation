@@ -4,5 +4,11 @@ Version: 0.1
 Author: Yousef
 Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: pyyaml
+Requires-Dist: imbalanced-learn
+Requires-Dist: lightgbm
+Requires-Dist: mlflow
+Requires-Dist: flask
 Dynamic: author
 Dynamic: requires-dist

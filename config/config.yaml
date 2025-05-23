@@ -1,0 +1,3 @@
+data_ingestion:
+  raw_file_name: "raw.csv"
+  train_ratio: 0.8
