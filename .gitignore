@@ -5,3 +5,4 @@ MLOPS_PROJECT_1.egg-info/
 raw/
 train.csv
 random_forest.pkl
+processed/
