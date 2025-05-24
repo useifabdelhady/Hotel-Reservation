@@ -1,9 +1,7 @@
 venv/
 mlruns/
 logs/
-MLOPS_PROJECT_1.egg-info/
-raw/
-train.csv
-random_forest.pkl
-processed/
-models/
+Hotel_Reservation.egg-info/
+*.egg-info/
+*.pkl
+*.csv
