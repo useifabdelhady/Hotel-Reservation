@@ -6,3 +6,4 @@ raw/
 train.csv
 random_forest.pkl
 processed/
+models/
