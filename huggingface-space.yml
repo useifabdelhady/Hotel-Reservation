@@ -1,0 +1,8 @@
+title: Hotel Reservation Prediction
+sdk: docker
+docker_build:
+  cuda: false
+  python_version: "3.9"
+  system_packages:
+    - "libgomp1"
+port: 7860
